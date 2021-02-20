@@ -42,3 +42,17 @@ p{
     width:310px;
     font-family: fantasy;
 }
+a:link{
+    color:chartreuse;
+}
+a:visited{
+    color: chartreuse;
+}
+.bla p1{
+    position:absolute;
+    opacity:0
+}
+.bla:hover p1{
+    opacity:1;
+    font-size: 20px;
+}
