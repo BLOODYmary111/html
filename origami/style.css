@@ -1,0 +1,44 @@
+
+h1{
+    color:lime;
+    padding-left:600px;
+}
+
+h2{
+    color:orangered
+
+}
+.menu{
+    display: -ms-inline-flexbox;
+    justify-content: space-between;
+   background-color:#ff0;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    
+}
+p{
+    color:orangered
+      fontSize=2;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.bla{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:yellow;
+    border-radius: 30px;
+    border: solid;
+    width:310px;
+    font-family: fantasy;
+}
